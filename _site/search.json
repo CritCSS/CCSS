@@ -1,0 +1,369 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open materials for Data Science with a critical perspective",
+    "section": "",
+    "text": "lorem ipsum",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#why-data-science-for-social-scientists",
+    "href": "index.html#why-data-science-for-social-scientists",
+    "title": "Open materials for Data Science with a critical perspective",
+    "section": "",
+    "text": "lorem ipsum",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#why-critical",
+    "href": "index.html#why-critical",
+    "title": "Open materials for Data Science with a critical perspective",
+    "section": "Why critical?",
+    "text": "Why critical?\nlorem ipsum",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-these-materials",
+    "href": "index.html#how-to-use-these-materials",
+    "title": "Open materials for Data Science with a critical perspective",
+    "section": "How to use these materials?",
+    "text": "How to use these materials?\nlorem ipsum",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Contributors",
+    "section": "",
+    "text": "The team that developed the materials for this website is composed of:\n\nDiego Kozlowski\nLaia Domenech Burin\nCarolina Pradier\nGermán Rosati\nNatsumi S. Shokida\n\nWe are grateful for their dedication and contributions to this project.\nAdditionally, these materials were developed at the request of Professor Thema Monroe-White, who provided the funding for the project. We extend our sincere thanks to Thema for her support and encouragement.",
+    "crumbs": [
+      "Contributors"
+    ]
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "Below is the complete list of materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#intro_i",
+    "href": "materials.html#intro_i",
+    "title": "Materials",
+    "section": "1_intro_I",
+    "text": "1_intro_I\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#intro_ii",
+    "href": "materials.html#intro_ii",
+    "title": "Materials",
+    "section": "2_intro_II",
+    "text": "2_intro_II\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#version_control",
+    "href": "materials.html#version_control",
+    "title": "Materials",
+    "section": "3_version_control",
+    "text": "3_version_control\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#descriptive_stats",
+    "href": "materials.html#descriptive_stats",
+    "title": "Materials",
+    "section": "4_descriptive_stats",
+    "text": "4_descriptive_stats\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#linear_regression",
+    "href": "materials.html#linear_regression",
+    "title": "Materials",
+    "section": "5_linear_regression",
+    "text": "5_linear_regression\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#logistic_regression",
+    "href": "materials.html#logistic_regression",
+    "title": "Materials",
+    "section": "6_logistic_regression",
+    "text": "6_logistic_regression\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#shiny_apps",
+    "href": "materials.html#shiny_apps",
+    "title": "Materials",
+    "section": "7_shiny_apps",
+    "text": "7_shiny_apps\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#tidyverse",
+    "href": "materials.html#tidyverse",
+    "title": "Materials",
+    "section": "8 tidyverse",
+    "text": "8 tidyverse\ncontent: - data wrangling - joins - Pivots - functions\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#data_storytelling",
+    "href": "materials.html#data_storytelling",
+    "title": "Materials",
+    "section": "9_data_storytelling",
+    "text": "9_data_storytelling\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#tidy_dataviz",
+    "href": "materials.html#tidy_dataviz",
+    "title": "Materials",
+    "section": "10_tidy_dataviz",
+    "text": "10_tidy_dataviz\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#web_scraping",
+    "href": "materials.html#web_scraping",
+    "title": "Materials",
+    "section": "11_web_scraping",
+    "text": "11_web_scraping\ncontent: - html - Extracting data - API\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#preprocessing",
+    "href": "materials.html#preprocessing",
+    "title": "Materials",
+    "section": "12_preprocessing",
+    "text": "12_preprocessing\n“normalization imputation. Categorical, continous”\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#supervised_learning",
+    "href": "materials.html#supervised_learning",
+    "title": "Materials",
+    "section": "13_supervised_learning",
+    "text": "13_supervised_learning\nNon-parametric classification methods. KNN.\nParametric methods. Bayes theorem for classification\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#unsupervised_learning",
+    "href": "materials.html#unsupervised_learning",
+    "title": "Materials",
+    "section": "14_unsupervised_learning",
+    "text": "14_unsupervised_learning\nClustering: K-means, hierarchical clustering\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#evaluation",
+    "href": "materials.html#evaluation",
+    "title": "Materials",
+    "section": "15_evaluation",
+    "text": "15_evaluation\nTrain test overfitting metrics: precision, recall, F1\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#text_mining",
+    "href": "materials.html#text_mining",
+    "title": "Materials",
+    "section": "16_text_mining",
+    "text": "16_text_mining\n“regex text processing Quantitative representation of text”\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#topic_modeling",
+    "href": "materials.html#topic_modeling",
+    "title": "Materials",
+    "section": "17_topic_modeling",
+    "text": "17_topic_modeling\nTopic modeling, LDA, BERTOPIC\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#embeddings",
+    "href": "materials.html#embeddings",
+    "title": "Materials",
+    "section": "18_embeddings",
+    "text": "18_embeddings\nWord Embeddings Pre-trained language models BERT\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#deep_learning",
+    "href": "materials.html#deep_learning",
+    "title": "Materials",
+    "section": "19_deep_learning",
+    "text": "19_deep_learning\nFCNN, Optimization, CNN\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#sna",
+    "href": "materials.html#sna",
+    "title": "Materials",
+    "section": "20_SNA",
+    "text": "20_SNA\nElements of a network, types of networks, Networks representation an metrics, social networks\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "Setup.html",
+    "href": "Setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "To be able to work with these materials, you will need:\n\n1. R and R studio installed in your computer\n\n\n2. Git\n\nCreate a github.com account\nsetup git in your computer\n\n\n\nPackages\nAlso, the following packages are needed for many of the materials:\n\ninstall.packages('tidyverse')\n\nEach materials block use different packages, so be sure to have everything installed beforehand",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "materials.html#introduction-i",
+    "href": "materials.html#introduction-i",
+    "title": "Materials",
+    "section": "1 introduction (I)",
+    "text": "1 introduction (I)\ncontent: - Introduction to Critical Quant - Introduction to R\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#introduction-ii",
+    "href": "materials.html#introduction-ii",
+    "title": "Materials",
+    "section": "2 introduction (II)",
+    "text": "2 introduction (II)\ncontent: - Introduction to Critical Quant - Introduction to R - Version control and Documentation - This material mix the introduction I with the block 3 (version control), for a fast-paced course\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#version-control",
+    "href": "materials.html#version-control",
+    "title": "Materials",
+    "section": "3 version control",
+    "text": "3 version control\ncontent: - GIT - Rmarkdown\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#descriptive-stats",
+    "href": "materials.html#descriptive-stats",
+    "title": "Materials",
+    "section": "4 descriptive stats",
+    "text": "4 descriptive stats\ncontent: - Probability and Statistics overview - Tests, correlations, confidence intervals and p-values\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#linear-regression",
+    "href": "materials.html#linear-regression",
+    "title": "Materials",
+    "section": "5 linear regression",
+    "text": "5 linear regression\ncontent: - Simple and multiple linear regression - Model assumptions and coefficient interpretation\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#logistic-regression",
+    "href": "materials.html#logistic-regression",
+    "title": "Materials",
+    "section": "6 logistic regression",
+    "text": "6 logistic regression\ncontent: - logistic function - generalization: multinomial logistic regression - model assumptions\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#shiny-apps",
+    "href": "materials.html#shiny-apps",
+    "title": "Materials",
+    "section": "7 shiny apps",
+    "text": "7 shiny apps\ncontent: - server and UI - interactive visualizations with ggplotly - note: this should be tought after 8 (tidyverse) and 9 (data storytelling)\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#data-storytelling",
+    "href": "materials.html#data-storytelling",
+    "title": "Materials",
+    "section": "9 data storytelling",
+    "text": "9 data storytelling\ncontent: - grammar of graphics - types of figures - multiple aesthetic attributes\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#tidydataviz",
+    "href": "materials.html#tidydataviz",
+    "title": "Materials",
+    "section": "10 tidydataviz",
+    "text": "10 tidydataviz\ncontent: - This material is a mix of 8 (tidyverse) and 9 (dataviz), for a fast-paced course\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  }
+]

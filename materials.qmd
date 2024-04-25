@@ -1,0 +1,181 @@
+---
+title: "Materials"
+---
+
+Below is the complete list of materials
+
+
+## 1 introduction (I)
+
+content: 
+- Introduction to Critical Quant
+- Introduction to R
+
+- [Class notes](materials/1_intro_I/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/1_intro_I)
+
+## 2 introduction (II)
+
+content: 
+- Introduction to Critical Quant
+- Introduction to R
+- Version control and Documentation
+- This material mix the introduction I with the block 3 (version control), for a fast-paced course
+
+- [Class notes](materials/2_intro_II/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/2_intro_II)
+
+## 3 version control
+
+content:
+- GIT
+- Rmarkdown
+
+- [Class notes](materials/3_version_control/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/3_version_control)
+
+## 4 descriptive stats
+
+content:
+- Probability and Statistics overview
+- Tests, correlations, confidence intervals and p-values
+
+- [Class notes](materials/4_descriptive_stats/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/4_descriptive_stats)
+
+## 5 linear regression
+
+content:
+- Simple and multiple linear regression
+- Model assumptions and coefficient interpretation
+
+- [Class notes](materials/5_linear_regression/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/5_linear_regression)
+
+## 6 logistic regression
+
+content:
+- logistic function
+- generalization: multinomial logistic regression
+- model assumptions
+
+- [Class notes](materials/6_logistic_regression/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/6_logistic_regression)
+
+## 7 shiny apps
+
+content:
+- server and UI
+- interactive visualizations with ggplotly
+- note: this should be tought after 8 (tidyverse) and 9 (data storytelling)
+
+- [Class notes](materials/7_shiny_apps/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/7_shiny_apps)
+
+## 8 tidyverse
+
+content:
+- data wrangling
+- joins
+- Pivots
+- functions
+
+- [Class notes](materials/8_tidyverse/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/8_tidyverse)
+
+## 9 data storytelling
+
+content:
+- grammar of graphics
+- types of figures
+- multiple aesthetic attributes
+
+- [Class notes](materials/9_data_storytelling/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/9_data_storytelling)
+
+## 10 tidydataviz
+
+content:
+ - This material is a mix of 8 (tidyverse) and 9 (dataviz), for a fast-paced course
+
+- [Class notes](materials/10_tidy_dataviz/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/10_tidy_dataviz)
+
+## 11_web_scraping
+
+content: 
+- html
+- Extracting data
+- API
+
+- [Class notes](materials/11_web_scraping/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/11_web_scraping)
+
+## 12_preprocessing
+"normalization
+imputation. Categorical, continous"
+
+- [Class notes](materials/12_preprocessing/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/12_preprocessing)
+
+## 13_supervised_learning
+ Non-parametric classification methods. KNN.  
+ Parametric methods. Bayes theorem for classification
+
+- [Class notes](materials/13_supervised_learning/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/13_supervised_learning)
+
+## 14_unsupervised_learning
+
+Clustering: K-means, hierarchical clustering
+
+- [Class notes](materials/14_unsupervised_learning/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/14_unsupervised_learning)
+
+## 15_evaluation
+
+ Train test
+overfitting
+metrics: precision, recall, F1
+
+
+- [Class notes](materials/15_evaluation/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/15_evaluation)
+
+## 16_text_mining
+"regex
+text processing
+Quantitative representation of text"
+
+- [Class notes](materials/16_text_mining/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/16_text_mining)
+
+## 17_topic_modeling
+
+Topic modeling, LDA, BERTOPIC
+
+- [Class notes](materials/17_topic_modeling/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/17_topic_modeling)
+
+## 18_embeddings
+
+Word Embeddings
+Pre-trained language models
+BERT
+
+- [Class notes](materials/18_embeddings/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/18_embeddings)
+
+## 19_deep_learning
+
+FCNN, Optimization, CNN
+
+- [Class notes](materials/19_deep_learning/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/19_deep_learning)
+
+## 20_SNA
+
+Elements of a network, types of networks, Networks representation an metrics, social networks
+
+- [Class notes](materials/20_SNA/1_class_notes.html)
+- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/20_SNA)

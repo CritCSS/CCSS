@@ -1,13 +1,20 @@
 project:
   type: website
+  # render:
+  #   - index.qmd
+  #   - contributors.qmd
 
 website:
-  title: "website"
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - contributors.qmd
+      - Setup.qmd
+      - materials.qmd
+
 
 format:
   html:

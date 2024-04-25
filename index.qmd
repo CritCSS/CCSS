@@ -1,11 +1,15 @@
 ---
-title: "website"
+title: "Open materials for Data Science with a critical perspective"
 ---
 
-This is a Quarto website.
+## Why data science for Social Scientists?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+lorem ipsum
 
-```{r}
-1 + 1
-```
+## Why critical?
+
+lorem ipsum
+
+## How to use these materials?
+
+lorem ipsum

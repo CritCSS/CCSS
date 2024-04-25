@@ -1,0 +1,23 @@
+---
+title: "Setup"
+---
+
+To be able to work with these materials, you will need:
+
+### 1. R and R studio installed in your computer
+
+### 2. Git
+
+- Create a github.com account
+- setup git in your computer
+
+### Packages
+
+Also, the following packages are needed for many of the materials:
+
+```{r eval=FALSE}
+install.packages('tidyverse')
+```
+
+
+Each materials block use different packages, so be sure to have everything installed beforehand

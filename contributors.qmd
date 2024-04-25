@@ -1,0 +1,19 @@
+---
+title: "Contributors"
+---
+
+The team that developed the materials for this website is composed of:
+
+-   **Diego Kozlowski**
+
+-   **Laia Domenech Burin**
+
+-   **Carolina Pradier**
+
+-   **Germán Rosati**
+
+-   **Natsumi S. Shokida**
+
+We are grateful for their dedication and contributions to this project.
+
+Additionally, these materials were developed at the request of Professor Thema Monroe-White, who provided the funding for the project. We extend our sincere thanks to Thema for her support and encouragement.
