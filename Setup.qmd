@@ -2,6 +2,8 @@
 title: "Setup"
 ---
 
+# For students
+
 To be able to work with these materials, you will need:
 
 ### 1. R and R studio installed in your computer
@@ -19,5 +21,12 @@ Also, the following packages are needed for many of the materials:
 install.packages('tidyverse')
 ```
 
-
 Each materials block use different packages, so be sure to have everything installed beforehand
+
+
+
+# For instructors
+
+## class notes
+
+slides or html output
