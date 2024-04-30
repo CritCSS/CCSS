@@ -2,8 +2,13 @@
 title: "Materials"
 ---
 
-Below is the complete list of materials
+## Bulk download
 
+- As the goal is to compile a selection of materials into a course, the most convenient
+is to [bulk download](https://github.com/CritCSS/materials/) all the materials 
+from the repository and select the blocks from the folder. 
+
+- Alternatively, you can check the class notes directly, and download the materials of each block: 
 
 ## 1 introduction (I)
 

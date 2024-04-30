@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Open materials for Data Science with a critical perspective",
+    "title": "Critical Computational Social Sciences",
     "section": "",
     "text": "lorem ipsum",
     "crumbs": [
@@ -19,7 +19,7 @@
   {
     "objectID": "index.html#why-data-science-for-social-scientists",
     "href": "index.html#why-data-science-for-social-scientists",
-    "title": "Open materials for Data Science with a critical perspective",
+    "title": "Critical Computational Social Sciences",
     "section": "",
     "text": "lorem ipsum",
     "crumbs": [
@@ -29,7 +29,7 @@
   {
     "objectID": "index.html#why-critical",
     "href": "index.html#why-critical",
-    "title": "Open materials for Data Science with a critical perspective",
+    "title": "Critical Computational Social Sciences",
     "section": "Why critical?",
     "text": "Why critical?\nlorem ipsum",
     "crumbs": [
@@ -61,7 +61,7 @@
     "href": "materials.html",
     "title": "Materials",
     "section": "",
-    "text": "Below is the complete list of materials",
+    "text": "As the goal is to compile a selection of materials into a course, the most convenient is to bulk download all the materials from the repository and select the blocks from the folder.\nAlternatively, you can check the class notes directly, and download the materials of each block:",
     "crumbs": [
       "Materials"
     ]
@@ -271,7 +271,7 @@
     "href": "Setup.html",
     "title": "Setup",
     "section": "",
-    "text": "To be able to work with these materials, you will need:\n\n1. R and R studio installed in your computer\n\n\n2. Git\n\nCreate a github.com account\nsetup git in your computer\n\n\n\nPackages\nAlso, the following packages are needed for many of the materials:\n\ninstall.packages('tidyverse')\n\nEach materials block use different packages, so be sure to have everything installed beforehand",
+    "text": "To be able to work with these materials, you will need:\n\n\n\n\n\n\nCreate a github.com account\nsetup git in your computer\n\n\n\n\nAlso, the following packages are needed for many of the materials:\n\ninstall.packages('tidyverse')\n\nEach materials block use different packages, so be sure to have everything installed beforehand",
     "crumbs": [
       "Setup"
     ]
@@ -362,6 +362,66 @@
     "title": "Materials",
     "section": "10 tidydataviz",
     "text": "10 tidydataviz\ncontent: - This material is a mix of 8 (tidyverse) and 9 (dataviz), for a fast-paced course\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "index.html#building-blocks",
+    "href": "index.html#building-blocks",
+    "title": "Critical Computational Social Sciences",
+    "section": "Building Blocks",
+    "text": "Building Blocks\nThe materials consists of 20 building blocks, grouped into six categories",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#materials-structure",
+    "href": "index.html#materials-structure",
+    "title": "Critical Computational Social Sciences",
+    "section": "Materials’ structure",
+    "text": "Materials’ structure\nEach block consists of four files that aim to develop the theoretical and practical content of the course",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#syllabuses-examples",
+    "href": "index.html#syllabuses-examples",
+    "title": "Open materials for Data Science with a critical perspective",
+    "section": "Syllabuses’ examples",
+    "text": "Syllabuses’ examples\nDepending on the goals of the course, the students’ profile, and the number of sessions, each block can be taught in one or two sessions. In most of the cases, the theoretical and practical materials come up to a natural division.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "Setup.html#class-notes",
+    "href": "Setup.html#class-notes",
+    "title": "Setup",
+    "section": "class notes",
+    "text": "class notes\nslides or html output",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "index.html#flexible-syllabus",
+    "href": "index.html#flexible-syllabus",
+    "title": "Critical Computational Social Sciences",
+    "section": "Flexible Syllabus",
+    "text": "Flexible Syllabus\n\nDepending on the goals of the course, the students’ profile, and the number of sessions, different syllabuses could be built.\nEach block can be taught in one or two sessions. The suggested division is between the theoretical and practical parts, although this might not apply to every block.\nBelow are some examples of possible courses, but many combinations could work!",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "materials.html#bulk-download",
+    "href": "materials.html#bulk-download",
+    "title": "Materials",
+    "section": "",
+    "text": "As the goal is to compile a selection of materials into a course, the most convenient is to bulk download all the materials from the repository and select the blocks from the folder.\nAlternatively, you can check the class notes directly, and download the materials of each block:",
     "crumbs": [
       "Materials"
     ]

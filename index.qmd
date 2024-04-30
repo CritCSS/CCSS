@@ -1,5 +1,6 @@
 ---
-title: "Open materials for Data Science with a critical perspective"
+title: "Critical Computational Social Sciences"
+subtitle: "Open Materials"
 ---
 
 ## Why data science for Social Scientists?
@@ -10,6 +11,24 @@ lorem ipsum
 
 lorem ipsum
 
-## How to use these materials?
+## Building Blocks
 
-lorem ipsum
+The materials consists of 20 building blocks, grouped into six categories
+
+![](images/blocks.png)
+
+## Materials' structure
+
+Each block consists of four files that aim to develop the theoretical and practical content of the course
+
+![](images/structure.png)
+
+## Flexible Syllabus
+
+-   Depending on the goals of the course, the students' profile, and the number of sessions, different syllabuses could be built.
+
+-   Each block can be taught in one or two sessions. The suggested division is between the theoretical and practical parts, although this might not apply to every block.
+
+-   Below are some examples of possible courses, but many combinations could work!
+
+![](images/syllabus.png)
