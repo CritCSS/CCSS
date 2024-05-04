@@ -1,15 +1,28 @@
 ---
 title: "Critical Computational Social Sciences"
 subtitle: "Open Materials"
+bibliography: references.bib
 ---
 
-## Why data science for Social Scientists?
+# Introduction
 
-lorem ipsum
+## Why should data science be critical?
 
-## Why critical?
+Quantitative analysis can be a very powerful tool to understand **systemic** phenomena. By translating similar **experiences** shared by large groups of people into data, we can identify repeating **patterns**. This allows us to contextualize our personal experiences and address issues from a systemic perspective, leading to more effective solutions and positive change for ourselves and the communities we are a part of.
 
-lorem ipsum
+However, data are not neutral or objective. They are the products of unequal social relations, and understanding this **context** is essential for conducting accurate, ethical analysis.
+
+It is important to critically analyze data in order to avoid replicating the biases that may be inherent in the data. Standard practices in data science may serve to **reinforce** these existing inequalities [@dignazioDataFeminism2023].
+
+## Biases and "objectivity"
+
+The demographics of data science, as well as related occupations such as software engineering and artificial intelligence research, are not representative of the population as a whole. The majority of individuals working in these fields are elite white men.
+
+It is important to keep in mind that science is shaped by the unique perspectives of individual scientists, and therefore researchers' subjectivities and **biases** can influence the way data sets are built and later analyzed. Therefore, it is necessary to be **transparent** about the context in which research is conducted as well as potential sources of bias, thus acknowledging the partiality of our perspectives. It is also important to promote a more representative workforce in data science.
+
+## Critical pedagogies for critical thinkers
+
+For the above, we believe that critical perspective is key to tackle systemic biases that hinder the tools of data analysis to be tools for positive societal change. For this reason, these materials aim to develop a critical mindset toward the tools as they are presented. For developing this goal, our materials mix a critical analysis of the potential harms associated with the tools introduced in each material, together with the potentialities they bring for the study of inequalities, and wherever possible for the pedagogy of the courses, the use of real world data sets.
 
 ## Building Blocks
 

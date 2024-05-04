@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -134,11 +154,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#why-data-science-for-social-scientists" id="toc-why-data-science-for-social-scientists" class="nav-link active" data-scroll-target="#why-data-science-for-social-scientists">Why data science for Social Scientists?</a></li>
-  <li><a href="#why-critical" id="toc-why-critical" class="nav-link" data-scroll-target="#why-critical">Why critical?</a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a>
+  <ul class="collapse">
+  <li><a href="#why-should-data-science-be-critical" id="toc-why-should-data-science-be-critical" class="nav-link" data-scroll-target="#why-should-data-science-be-critical">Why should data science be critical?</a></li>
+  <li><a href="#biases-and-objectivity" id="toc-biases-and-objectivity" class="nav-link" data-scroll-target="#biases-and-objectivity">Biases and “objectivity”</a></li>
+  <li><a href="#critical-pedagogies-for-critical-thinkers" id="toc-critical-pedagogies-for-critical-thinkers" class="nav-link" data-scroll-target="#critical-pedagogies-for-critical-thinkers">Critical pedagogies for critical thinkers</a></li>
   <li><a href="#building-blocks" id="toc-building-blocks" class="nav-link" data-scroll-target="#building-blocks">Building Blocks</a></li>
   <li><a href="#materials-structure" id="toc-materials-structure" class="nav-link" data-scroll-target="#materials-structure">Materials’ structure</a></li>
   <li><a href="#flexible-syllabus" id="toc-flexible-syllabus" class="nav-link" data-scroll-target="#flexible-syllabus">Flexible Syllabus</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -165,13 +189,22 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="why-data-science-for-social-scientists" class="level2">
-<h2 class="anchored" data-anchor-id="why-data-science-for-social-scientists">Why data science for Social Scientists?</h2>
-<p>lorem ipsum</p>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<section id="why-should-data-science-be-critical" class="level2">
+<h2 class="anchored" data-anchor-id="why-should-data-science-be-critical">Why should data science be critical?</h2>
+<p>Quantitative analysis can be a very powerful tool to understand <strong>systemic</strong> phenomena. By translating similar <strong>experiences</strong> shared by large groups of people into data, we can identify repeating <strong>patterns</strong>. This allows us to contextualize our personal experiences and address issues from a systemic perspective, leading to more effective solutions and positive change for ourselves and the communities we are a part of.</p>
+<p>However, data are not neutral or objective. They are the products of unequal social relations, and understanding this <strong>context</strong> is essential for conducting accurate, ethical analysis.</p>
+<p>It is important to critically analyze data in order to avoid replicating the biases that may be inherent in the data. Standard practices in data science may serve to <strong>reinforce</strong> these existing inequalities <span class="citation" data-cites="dignazioDataFeminism2023">(<a href="#ref-dignazioDataFeminism2023" role="doc-biblioref">D’ignazio and Klein 2023</a>)</span>.</p>
 </section>
-<section id="why-critical" class="level2">
-<h2 class="anchored" data-anchor-id="why-critical">Why critical?</h2>
-<p>lorem ipsum</p>
+<section id="biases-and-objectivity" class="level2">
+<h2 class="anchored" data-anchor-id="biases-and-objectivity">Biases and “objectivity”</h2>
+<p>The demographics of data science, as well as related occupations such as software engineering and artificial intelligence research, are not representative of the population as a whole. The majority of individuals working in these fields are elite white men.</p>
+<p>It is important to keep in mind that science is shaped by the unique perspectives of individual scientists, and therefore researchers’ subjectivities and <strong>biases</strong> can influence the way data sets are built and later analyzed. Therefore, it is necessary to be <strong>transparent</strong> about the context in which research is conducted as well as potential sources of bias, thus acknowledging the partiality of our perspectives. It is also important to promote a more representative workforce in data science.</p>
+</section>
+<section id="critical-pedagogies-for-critical-thinkers" class="level2">
+<h2 class="anchored" data-anchor-id="critical-pedagogies-for-critical-thinkers">Critical pedagogies for critical thinkers</h2>
+<p>For the above, we believe that critical perspective is key to tackle systemic biases that hinder the tools of data analysis to be tools for positive societal change. For this reason, these materials aim to develop a critical mindset toward the tools as they are presented. For developing this goal, our materials mix a critical analysis of the potential harms associated with the tools introduced in each material, together with the potentialities they bring for the study of inequalities, and wherever possible for the pedagogy of the courses, the use of real world data sets.</p>
 </section>
 <section id="building-blocks" class="level2">
 <h2 class="anchored" data-anchor-id="building-blocks">Building Blocks</h2>
@@ -193,9 +226,15 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="images/syllabus.png" class="img-fluid"></p>
 
 
+
+</section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-dignazioDataFeminism2023" class="csl-entry" role="listitem">
+D’ignazio, Catherine, and Lauren F. Klein. 2023. <em>Data Feminism</em>. <span>S.l.</span>: <span>MIT PRESS</span>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

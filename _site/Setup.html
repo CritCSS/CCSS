@@ -229,7 +229,32 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h1>For instructors</h1>
 <section id="class-notes" class="level2">
 <h2 class="anchored" data-anchor-id="class-notes">class notes</h2>
-<p>slides or html output</p>
+<p>The class notes are built in quarto markdown, which allows for quick changes in the type of outputs. this can be made through a quick modification of the YALM.</p>
+<p>Each class note comes with a YALM header as follows:</p>
+<pre><code>---
+title: "Introduction I"
+runningheader: "class notes" # only for pdf output
+subtitle: "class notes" # only for html output
+format: html
+#format: pdf
+# format: 
+#   revealjs:
+#     scrollable: true
+#     smaller: true
+editor: visual
+bibliography: references.bib
+---</code></pre>
+<ul>
+<li>by default, this creates an html output.</li>
+<li>If you prefer to work with slides, you need to comment <code>format: html</code>and un-comment the following:</li>
+</ul>
+<pre><code># format: 
+#   revealjs:
+#     scrollable: true
+#     smaller: true</code></pre>
+<ul>
+<li>To build a pdf, which can be a good way to build a compilation of all materials for printing, un-comment the <code>format: pdf</code> instead.</li>
+</ul>
 
 
 </section>

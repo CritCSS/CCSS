@@ -29,4 +29,35 @@ Each materials block use different packages, so be sure to have everything insta
 
 ## class notes
 
-slides or html output
+The class notes are built in quarto markdown, which allows for quick changes in the type of outputs. this can be made through a quick modification of the YALM. 
+
+Each class note comes with a YALM header as follows:
+
+```
+---
+title: "Introduction I"
+runningheader: "class notes" # only for pdf output
+subtitle: "class notes" # only for html output
+format: html
+#format: pdf
+# format: 
+#   revealjs:
+#     scrollable: true
+#     smaller: true
+editor: visual
+bibliography: references.bib
+---
+```
+
+- by default, this creates an html output. 
+- If you prefer to work with slides, you need to comment `format: html`and un-comment the following:
+
+```
+# format: 
+#   revealjs:
+#     scrollable: true
+#     smaller: true
+```
+
+- To build a pdf, which can be a good way to build a compilation of all materials for printing, un-comment the `format: pdf` instead.
+

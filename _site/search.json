@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Critical Computational Social Sciences",
     "section": "",
-    "text": "lorem ipsum",
+    "text": "Quantitative analysis can be a very powerful tool to understand systemic phenomena. By translating similar experiences shared by large groups of people into data, we can identify repeating patterns. This allows us to contextualize our personal experiences and address issues from a systemic perspective, leading to more effective solutions and positive change for ourselves and the communities we are a part of.\nHowever, data are not neutral or objective. They are the products of unequal social relations, and understanding this context is essential for conducting accurate, ethical analysis.\nIt is important to critically analyze data in order to avoid replicating the biases that may be inherent in the data. Standard practices in data science may serve to reinforce these existing inequalities (D’ignazio and Klein 2023).\n\n\n\nThe demographics of data science, as well as related occupations such as software engineering and artificial intelligence research, are not representative of the population as a whole. The majority of individuals working in these fields are elite white men.\nIt is important to keep in mind that science is shaped by the unique perspectives of individual scientists, and therefore researchers’ subjectivities and biases can influence the way data sets are built and later analyzed. Therefore, it is necessary to be transparent about the context in which research is conducted as well as potential sources of bias, thus acknowledging the partiality of our perspectives. It is also important to promote a more representative workforce in data science.\n\n\n\nFor the above, we believe that critical perspective is key to tackle systemic biases that hinder the tools of data analysis to be tools for positive societal change. For this reason, these materials aim to develop a critical mindset toward the tools as they are presented. For developing this goal, our materials mix a critical analysis of the potential harms associated with the tools introduced in each material, together with the potentialities they bring for the study of inequalities, and wherever possible for the pedagogy of the courses, the use of real world data sets.\n\n\n\nThe materials consists of 20 building blocks, grouped into six categories\n\n\n\n\nEach block consists of four files that aim to develop the theoretical and practical content of the course\n\n\n\n\n\nDepending on the goals of the course, the students’ profile, and the number of sessions, different syllabuses could be built.\nEach block can be taught in one or two sessions. The suggested division is between the theoretical and practical parts, although this might not apply to every block.\nBelow are some examples of possible courses, but many combinations could work!",
     "crumbs": [
       "Home"
     ]
@@ -51,7 +51,7 @@
     "href": "contributors.html",
     "title": "Contributors",
     "section": "",
-    "text": "The team that developed the materials for this website is composed of:\n\nDiego Kozlowski\nLaia Domenech Burin\nCarolina Pradier\nGermán Rosati\nNatsumi S. Shokida\n\nWe are grateful for their dedication and contributions to this project.\nAdditionally, these materials were developed at the request of Professor Thema Monroe-White, who provided the funding for the project. We extend our sincere thanks to Thema for her support and encouragement.",
+    "text": "The team that developed the materials for this website is composed of:\n\nDiego Kozlowski:\n\nÉcole de bibliothéconomie et des sciences de l’information, Université de Montréal.\nORCID\n\nLaia Domenech Burin:\n\nORCID\n\nCarolina Pradier:\n\nÉcole de bibliothéconomie et des sciences de l’information, Université de Montréal.\nORCID\n\nGermán Rosati:\n\nCONICET / IDAES-UNSAM\nORCID\n\nNatsumi S. Shokida:\n\nÉcole de bibliothéconomie et des sciences de l’information, Université de Montréal.\nORCID\n\n\nWe are grateful for their dedication and contributions to this project.\nAdditionally, these materials were developed at the request of Professor Thema Monroe-White, who provided the funding for the project. We extend our sincere thanks to Thema for her support and encouragement.",
     "crumbs": [
       "Contributors"
     ]
@@ -140,8 +140,8 @@
     "objectID": "materials.html#tidyverse",
     "href": "materials.html#tidyverse",
     "title": "Materials",
-    "section": "8 tidyverse",
-    "text": "8 tidyverse\ncontent: - data wrangling - joins - Pivots - functions\n\nClass notes\nFull Materials",
+    "section": "Tidyverse",
+    "text": "Tidyverse\ncontent: - data wrangling - joins - Pivots - functions\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -180,8 +180,8 @@
     "objectID": "materials.html#preprocessing",
     "href": "materials.html#preprocessing",
     "title": "Materials",
-    "section": "12_preprocessing",
-    "text": "12_preprocessing\n“normalization imputation. Categorical, continous”\n\nClass notes\nFull Materials",
+    "section": "Preprocessing",
+    "text": "Preprocessing\n“normalization imputation. Categorical, continous”\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -210,8 +210,8 @@
     "objectID": "materials.html#evaluation",
     "href": "materials.html#evaluation",
     "title": "Materials",
-    "section": "15_evaluation",
-    "text": "15_evaluation\nTrain test overfitting metrics: precision, recall, F1\n\nClass notes\nFull Materials",
+    "section": "Evaluation",
+    "text": "Evaluation\nTrain test overfitting metrics: precision, recall, F1\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -240,8 +240,8 @@
     "objectID": "materials.html#embeddings",
     "href": "materials.html#embeddings",
     "title": "Materials",
-    "section": "18_embeddings",
-    "text": "18_embeddings\nWord Embeddings Pre-trained language models BERT\n\nClass notes\nFull Materials",
+    "section": "Embeddings",
+    "text": "Embeddings\nWord Embeddings Pre-trained language models BERT\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -280,8 +280,8 @@
     "objectID": "materials.html#introduction-i",
     "href": "materials.html#introduction-i",
     "title": "Materials",
-    "section": "1 introduction (I)",
-    "text": "1 introduction (I)\ncontent: - Introduction to Critical Quant - Introduction to R\n\nClass notes\nFull Materials",
+    "section": "Introduction (I)",
+    "text": "Introduction (I)\ncontent: - Introduction to Critical Quant - Introduction to R\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -290,8 +290,8 @@
     "objectID": "materials.html#introduction-ii",
     "href": "materials.html#introduction-ii",
     "title": "Materials",
-    "section": "2 introduction (II)",
-    "text": "2 introduction (II)\ncontent: - Introduction to Critical Quant - Introduction to R - Version control and Documentation - This material mix the introduction I with the block 3 (version control), for a fast-paced course\n\nClass notes\nFull Materials",
+    "section": "Introduction (II)",
+    "text": "Introduction (II)\ncontent: - Introduction to Critical Quant - Introduction to R - Version control and Documentation - This material mix the introduction I with the block 3 (version control), for a fast-paced course\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -300,8 +300,8 @@
     "objectID": "materials.html#version-control",
     "href": "materials.html#version-control",
     "title": "Materials",
-    "section": "3 version control",
-    "text": "3 version control\ncontent: - GIT - Rmarkdown\n\nClass notes\nFull Materials",
+    "section": "Version Control",
+    "text": "Version Control\ncontent: - GIT - Rmarkdown\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -320,8 +320,8 @@
     "objectID": "materials.html#linear-regression",
     "href": "materials.html#linear-regression",
     "title": "Materials",
-    "section": "5 linear regression",
-    "text": "5 linear regression\ncontent: - Simple and multiple linear regression - Model assumptions and coefficient interpretation\n\nClass notes\nFull Materials",
+    "section": "Linear Regression",
+    "text": "Linear Regression\ncontent: - Simple and multiple linear regression - Model assumptions and coefficient interpretation\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -330,8 +330,8 @@
     "objectID": "materials.html#logistic-regression",
     "href": "materials.html#logistic-regression",
     "title": "Materials",
-    "section": "6 logistic regression",
-    "text": "6 logistic regression\ncontent: - logistic function - generalization: multinomial logistic regression - model assumptions\n\nClass notes\nFull Materials",
+    "section": "Logistic Regression",
+    "text": "Logistic Regression\ncontent: - logistic function - generalization: multinomial logistic regression - model assumptions\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -340,8 +340,8 @@
     "objectID": "materials.html#shiny-apps",
     "href": "materials.html#shiny-apps",
     "title": "Materials",
-    "section": "7 shiny apps",
-    "text": "7 shiny apps\ncontent: - server and UI - interactive visualizations with ggplotly - note: this should be tought after 8 (tidyverse) and 9 (data storytelling)\n\nClass notes\nFull Materials",
+    "section": "Shiny Apps",
+    "text": "Shiny Apps\ncontent: - server and UI - interactive visualizations with ggplotly - note: this should be tought after 8 (tidyverse) and 9 (data storytelling)\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -350,8 +350,8 @@
     "objectID": "materials.html#data-storytelling",
     "href": "materials.html#data-storytelling",
     "title": "Materials",
-    "section": "9 data storytelling",
-    "text": "9 data storytelling\ncontent: - grammar of graphics - types of figures - multiple aesthetic attributes\n\nClass notes\nFull Materials",
+    "section": "Data Storytelling",
+    "text": "Data Storytelling\ncontent: - grammar of graphics - types of figures - multiple aesthetic attributes\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
@@ -370,8 +370,8 @@
     "objectID": "index.html#building-blocks",
     "href": "index.html#building-blocks",
     "title": "Critical Computational Social Sciences",
-    "section": "Building Blocks",
-    "text": "Building Blocks\nThe materials consists of 20 building blocks, grouped into six categories",
+    "section": "",
+    "text": "The materials consists of 20 building blocks, grouped into six categories",
     "crumbs": [
       "Home"
     ]
@@ -380,8 +380,8 @@
     "objectID": "index.html#materials-structure",
     "href": "index.html#materials-structure",
     "title": "Critical Computational Social Sciences",
-    "section": "Materials’ structure",
-    "text": "Materials’ structure\nEach block consists of four files that aim to develop the theoretical and practical content of the course",
+    "section": "",
+    "text": "Each block consists of four files that aim to develop the theoretical and practical content of the course",
     "crumbs": [
       "Home"
     ]
@@ -401,7 +401,7 @@
     "href": "Setup.html#class-notes",
     "title": "Setup",
     "section": "class notes",
-    "text": "class notes\nslides or html output",
+    "text": "class notes\nThe class notes are built in quarto markdown, which allows for quick changes in the type of outputs. this can be made through a quick modification of the YALM.\nEach class note comes with a YALM header as follows:\n---\ntitle: \"Introduction I\"\nrunningheader: \"class notes\" # only for pdf output\nsubtitle: \"class notes\" # only for html output\nformat: html\n#format: pdf\n# format: \n#   revealjs:\n#     scrollable: true\n#     smaller: true\neditor: visual\nbibliography: references.bib\n---\n\nby default, this creates an html output.\nIf you prefer to work with slides, you need to comment format: htmland un-comment the following:\n\n# format: \n#   revealjs:\n#     scrollable: true\n#     smaller: true\n\nTo build a pdf, which can be a good way to build a compilation of all materials for printing, un-comment the format: pdf instead.",
     "crumbs": [
       "Setup"
     ]
@@ -410,8 +410,8 @@
     "objectID": "index.html#flexible-syllabus",
     "href": "index.html#flexible-syllabus",
     "title": "Critical Computational Social Sciences",
-    "section": "Flexible Syllabus",
-    "text": "Flexible Syllabus\n\nDepending on the goals of the course, the students’ profile, and the number of sessions, different syllabuses could be built.\nEach block can be taught in one or two sessions. The suggested division is between the theoretical and practical parts, although this might not apply to every block.\nBelow are some examples of possible courses, but many combinations could work!",
+    "section": "",
+    "text": "Depending on the goals of the course, the students’ profile, and the number of sessions, different syllabuses could be built.\nEach block can be taught in one or two sessions. The suggested division is between the theoretical and practical parts, although this might not apply to every block.\nBelow are some examples of possible courses, but many combinations could work!",
     "crumbs": [
       "Home"
     ]
@@ -422,6 +422,136 @@
     "title": "Materials",
     "section": "",
     "text": "As the goal is to compile a selection of materials into a course, the most convenient is to bulk download all the materials from the repository and select the blocks from the folder.\nAlternatively, you can check the class notes directly, and download the materials of each block:",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "index.html#why-should-data-science-be-critical",
+    "href": "index.html#why-should-data-science-be-critical",
+    "title": "Critical Computational Social Sciences",
+    "section": "",
+    "text": "Quantitative analysis can be a very powerful tool to understand systemic phenomena. By translating similar experiences shared by large groups of people into data, we can identify repeating patterns. This allows us to contextualize our personal experiences and address issues from a systemic perspective, leading to more effective solutions and positive change for ourselves and the communities we are a part of.\nHowever, data are not neutral or objective. They are the products of unequal social relations, and understanding this context is essential for conducting accurate, ethical analysis.\nIt is important to critically analyze data in order to avoid replicating the biases that may be inherent in the data. Standard practices in data science may serve to reinforce these existing inequalities (D’ignazio and Klein 2023).",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#biases-and-objectivity",
+    "href": "index.html#biases-and-objectivity",
+    "title": "Critical Computational Social Sciences",
+    "section": "",
+    "text": "The demographics of data science, as well as related occupations such as software engineering and artificial intelligence research, are not representative of the population as a whole. The majority of individuals working in these fields are elite white men.\nIt is important to keep in mind that science is shaped by the unique perspectives of individual scientists, and therefore researchers’ subjectivities and biases can influence the way data sets are built and later analyzed. Therefore, it is necessary to be transparent about the context in which research is conducted as well as potential sources of bias, thus acknowledging the partiality of our perspectives. It is also important to promote a more representative workforce in data science.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Critical Computational Social Sciences",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIs data enough? In 2015, communications researcher Candice Lanius wrote a widely shared blog post, Fact Check: Your Demand for Statistical Proof is Racist in which she summarizes the ample research on how those in positions of power accept anecdotal evidence from those like themselves, but demand endless statistics from minoritized groups. In those cases, she argues, more data will never be enough.↩︎",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#critical-pedagogies-for-critical-thinkers",
+    "href": "index.html#critical-pedagogies-for-critical-thinkers",
+    "title": "Critical Computational Social Sciences",
+    "section": "",
+    "text": "For the above, we believe that critical perspective is key to tackle systemic biases that hinder the tools of data analysis to be tools for positive societal change. For this reason, these materials aim to develop a critical mindset toward the tools as they are presented. For developing this goal, our materials mix a critical analysis of the potential harms associated with the tools introduced in each material, together with the potentialities they bring for the study of inequalities, and wherever possible for the pedagogy of the courses, the use of real world data sets.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "materials.html#descriptive-statistics",
+    "href": "materials.html#descriptive-statistics",
+    "title": "Materials",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\ncontent: - Probability and Statistics overview - Tests, correlations, confidence intervals and p-values\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#tidy-dataviz",
+    "href": "materials.html#tidy-dataviz",
+    "title": "Materials",
+    "section": "Tidy-dataviz",
+    "text": "Tidy-dataviz\ncontent: - This material is a mix of 8 (tidyverse) and 9 (dataviz), for a fast-paced course\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#web-scraping",
+    "href": "materials.html#web-scraping",
+    "title": "Materials",
+    "section": "Web Scraping",
+    "text": "Web Scraping\ncontent: - html - Extracting data - API\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#supervised-learning",
+    "href": "materials.html#supervised-learning",
+    "title": "Materials",
+    "section": "Supervised Learning",
+    "text": "Supervised Learning\nNon-parametric classification methods. KNN.\nParametric methods. Bayes theorem for classification\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#unsupervised-learning",
+    "href": "materials.html#unsupervised-learning",
+    "title": "Materials",
+    "section": "Unsupervised Learning",
+    "text": "Unsupervised Learning\nClustering: K-means, hierarchical clustering\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#text-mining",
+    "href": "materials.html#text-mining",
+    "title": "Materials",
+    "section": "Text Mining",
+    "text": "Text Mining\n“regex text processing Quantitative representation of text”\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#topic-modeling",
+    "href": "materials.html#topic-modeling",
+    "title": "Materials",
+    "section": "Topic Modeling",
+    "text": "Topic Modeling\nTopic modeling, LDA, BERTOPIC\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#deep-learning",
+    "href": "materials.html#deep-learning",
+    "title": "Materials",
+    "section": "Deep Learning",
+    "text": "Deep Learning\nFCNN, Optimization, CNN\n\nClass notes\nFull Materials",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#social-network-analysis",
+    "href": "materials.html#social-network-analysis",
+    "title": "Materials",
+    "section": "Social Network Analysis",
+    "text": "Social Network Analysis\nElements of a network, types of networks, Networks representation an metrics, social networks\n\nClass notes\nFull Materials",
     "crumbs": [
       "Materials"
     ]
