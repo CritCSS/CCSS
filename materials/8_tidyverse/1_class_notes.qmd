@@ -209,8 +209,6 @@ Sys.timezone()
 
 During this class, we went over the `tidyverse` functions that we use for preprocessing and transforming the data. This is a crucial step of the data science workflow. Most of the times, we will receive a non-tidy dataset with many errors (NA's, wrong formats in columns...) and a large portion of our work will be dedicated to tidying the data. Then, this will be the raw material we use to make our analysis and communicate the results. This is why it is a huge, important step in the workflow, not only because of technical difficulties, but also some conceptual problems might emerge.
 
-**Bias** can be introduced toying with the data. For example, I could have a race category in a dataset and group the variable into only White or Non-white, which would remove several populations from the analysis, leaving them unrepresented. Having domain-knowledge and sensibility about the data we are working on is key.
-
 Another problem can show up in the **merging of databases**. We should be careful to not join data just because they share and ID or a value (for example, a city or a state). Datasets are only comparable when the population of reference is the same in both. So, if we join two tables that don't share a population, we should explicit so and explain why we are doing it. For example, are we using it as a control variable? How different are the populations?
 
 In this sense, this is why it is important to keep a record of the code we use for preprocessing the data. The analysts' bias can be introduced during this process, so it is important to keep track of this in order to guarantee reproducibility and to be held accountable of our methodological decisions.
