@@ -330,13 +330,13 @@ div.csl-indent {
 <pre><code># A tibble: 7 × 7
   person_ID household_ID gender   age income neighborhood_income
       &lt;int&gt;        &lt;dbl&gt; &lt;chr&gt;  &lt;dbl&gt;  &lt;dbl&gt; &lt;chr&gt;              
-1         1            1 f         44   4246 low income         
-2         2            1 f         40   4722 low income         
-3         3            2 m         43   3102 low income         
-4         4            3 m         37   1761 high income        
-5         5            4 m         48   2072 high income        
-6         6            6 f         34   2625 high income        
-7         7            7 f         37   2513 high income        
+1         1            1 f         31   1039 low income         
+2         2            1 f         30   1677 low income         
+3         3            2 m         45   4971 low income         
+4         4            3 m         42   3274 high income        
+5         5            4 m         32   3937 high income        
+6         6            6 f         42   2031 high income        
+7         7            7 f         46   3463 high income        
 # ℹ 1 more variable: n_people_household &lt;dbl&gt;</code></pre>
 </div>
 </div>
@@ -348,14 +348,14 @@ div.csl-indent {
 <pre><code># A tibble: 8 × 7
   household_ID neighborhood_income n_people_household person_ID gender   age
          &lt;dbl&gt; &lt;chr&gt;                            &lt;dbl&gt;     &lt;int&gt; &lt;chr&gt;  &lt;dbl&gt;
-1            1 low income                           2         1 f         44
-2            1 low income                           2         2 f         40
-3            2 low income                           1         3 m         43
-4            3 high income                          1         4 m         37
-5            4 high income                          1         5 m         48
+1            1 low income                           2         1 f         31
+2            1 low income                           2         2 f         30
+3            2 low income                           1         3 m         45
+4            3 high income                          1         4 m         42
+5            4 high income                          1         5 m         32
 6            5 low income                           5        NA &lt;NA&gt;      NA
-7            6 high income                          4         6 f         34
-8            7 high income                          3         7 f         37
+7            6 high income                          4         6 f         42
+8            7 high income                          3         7 f         46
 # ℹ 1 more variable: income &lt;dbl&gt;</code></pre>
 </div>
 </div>
@@ -367,14 +367,14 @@ div.csl-indent {
 <pre><code># A tibble: 8 × 7
   household_ID neighborhood_income n_people_household person_ID gender   age
          &lt;dbl&gt; &lt;chr&gt;                            &lt;dbl&gt;     &lt;int&gt; &lt;chr&gt;  &lt;dbl&gt;
-1            1 low income                           2         1 f         44
-2            1 low income                           2         2 f         40
-3            2 low income                           1         3 m         43
-4            3 high income                          1         4 m         37
-5            4 high income                          1         5 m         48
+1            1 low income                           2         1 f         31
+2            1 low income                           2         2 f         30
+3            2 low income                           1         3 m         45
+4            3 high income                          1         4 m         42
+5            4 high income                          1         5 m         32
 6            5 low income                           5        NA &lt;NA&gt;      NA
-7            6 high income                          4         6 f         34
-8            7 high income                          3         7 f         37
+7            6 high income                          4         6 f         42
+8            7 high income                          3         7 f         46
 # ℹ 1 more variable: income &lt;dbl&gt;</code></pre>
 </div>
 </div>
@@ -397,8 +397,8 @@ div.csl-indent {
 <pre><code># A tibble: 2 × 2
   gender median_age
   &lt;chr&gt;       &lt;dbl&gt;
-1 f            38.5
-2 m            43  </code></pre>
+1 f            36.5
+2 m            42  </code></pre>
 </div>
 </div>
 <p>Or even combine groups and subgroups. For example, the median income for women and men who live in low income or high income neighborhoods</p>
@@ -408,10 +408,10 @@ div.csl-indent {
 # Groups:   neighborhood_income [2]
   neighborhood_income gender income
   &lt;chr&gt;               &lt;chr&gt;   &lt;dbl&gt;
-1 high income         f       2569 
-2 high income         m       1916.
-3 low income          f       4484 
-4 low income          m       3102 </code></pre>
+1 high income         f       2747 
+2 high income         m       3606.
+3 low income          f       1358 
+4 low income          m       4971 </code></pre>
 </div>
 </div>
 </section>
@@ -424,13 +424,13 @@ div.csl-indent {
 <pre><code># A tibble: 7 × 4
   person_ID gender   age income
       &lt;int&gt; &lt;chr&gt;  &lt;dbl&gt;  &lt;dbl&gt;
-1         1 f         44   4246
-2         2 f         40   4722
-3         3 m         43   3102
-4         4 m         37   1761
-5         5 m         48   2072
-6         6 f         34   2625
-7         7 f         37   2513</code></pre>
+1         1 f         31   1039
+2         2 f         30   1677
+3         3 m         45   4971
+4         4 m         42   3274
+5         5 m         32   3937
+6         6 f         42   2031
+7         7 f         46   3463</code></pre>
 </div>
 </div>
 <p>This is what we call a wide format: each variable has its own column, and each row represents a single observation. Long data, on the other hand, refers to a dataset where each variable is contained in its own column. This format is often used when working with large datasets or when performing statistical analyses that require data to be presented in a more condensed format.</p>
@@ -440,20 +440,20 @@ div.csl-indent {
 <pre><code># A tibble: 14 × 4
    person_ID gender variable value
        &lt;int&gt; &lt;chr&gt;  &lt;chr&gt;    &lt;dbl&gt;
- 1         1 f      age         44
- 2         1 f      income    4246
- 3         2 f      age         40
- 4         2 f      income    4722
- 5         3 m      age         43
- 6         3 m      income    3102
- 7         4 m      age         37
- 8         4 m      income    1761
- 9         5 m      age         48
-10         5 m      income    2072
-11         6 f      age         34
-12         6 f      income    2625
-13         7 f      age         37
-14         7 f      income    2513</code></pre>
+ 1         1 f      age         31
+ 2         1 f      income    1039
+ 3         2 f      age         30
+ 4         2 f      income    1677
+ 5         3 m      age         45
+ 6         3 m      income    4971
+ 7         4 m      age         42
+ 8         4 m      income    3274
+ 9         5 m      age         32
+10         5 m      income    3937
+11         6 f      age         42
+12         6 f      income    2031
+13         7 f      age         46
+14         7 f      income    3463</code></pre>
 </div>
 </div>
 <p>As you can see, the wide data format has a separate column for each variable, whereas the long data format has a single “variable” column that indicates whether the value refers to age or income.<br>
@@ -482,7 +482,6 @@ div.csl-indent {
 <section id="discussion" class="level1">
 <h1>Discussion</h1>
 <p>During this class, we went over the <code>tidyverse</code> functions that we use for preprocessing and transforming the data. This is a crucial step of the data science workflow. Most of the times, we will receive a non-tidy dataset with many errors (NA’s, wrong formats in columns…) and a large portion of our work will be dedicated to tidying the data. Then, this will be the raw material we use to make our analysis and communicate the results. This is why it is a huge, important step in the workflow, not only because of technical difficulties, but also some conceptual problems might emerge.</p>
-<p><strong>Bias</strong> can be introduced toying with the data. For example, I could have a race category in a dataset and group the variable into only White or Non-white, which would remove several populations from the analysis, leaving them unrepresented. Having domain-knowledge and sensibility about the data we are working on is key.</p>
 <p>Another problem can show up in the <strong>merging of databases</strong>. We should be careful to not join data just because they share and ID or a value (for example, a city or a state). Datasets are only comparable when the population of reference is the same in both. So, if we join two tables that don’t share a population, we should explicit so and explain why we are doing it. For example, are we using it as a control variable? How different are the populations?</p>
 <p>In this sense, this is why it is important to keep a record of the code we use for preprocessing the data. The analysts’ bias can be introduced during this process, so it is important to keep track of this in order to guarantee reproducibility and to be held accountable of our methodological decisions.</p>
 </section>
