@@ -2,7 +2,15 @@
 title: "Contributors"
 ---
 
-The team that developed the materials for this website is composed of:
+### This project was ideated and founded by **Professor Thema Monroe-White**
+
+-   Associate Professor of Artificial Intelligence and Innovation Policy in the Schar School of Policy and Government and Department of Computer Science (joint) at George Mason University
+
+-   [ORCID](https://orcid.org/0000-0001-9212-5430)
+
+-   [Website](https://schar.gmu.edu/profiles/tmonroew)
+
+### The team that developed the materials for this website is composed of:
 
 -   **Diego Kozlowski**:
 
@@ -34,10 +42,4 @@ The team that developed the materials for this website is composed of:
 
 We are grateful for their dedication and contributions to this project.
 
-### This project was founded by
-
-**Professor Thema Monroe-White**
-
--   Schar School of Policy and Government
-
--   [ORCID](https://orcid.org/0000-0001-9212-5430)
+### 
