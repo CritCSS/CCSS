@@ -4,7 +4,7 @@ title: "Contributors"
 
 ### This project was ideated and founded by Professor Thema Monroe-White
 
--   Associate Professor of Artificial Intelligence and Innovation Policy in the Schar School of Policy and Government and Department of Computer Science (joint) at George Mason University
+-   Associate Professor of Artificial Intelligence and Innovation Policy in the Schar School of Policy and Government and Department of Computer Science (joint) at George Mason University.
 
 -   [ORCID](https://orcid.org/0000-0001-9212-5430)
 
@@ -39,7 +39,3 @@ title: "Contributors"
     -   École de bibliothéconomie et des sciences de l'information, Université de Montréal.
 
     -   [ORCID](https://orcid.org/0009-0008-9198-3888)
-
-We are grateful for their dedication and contributions to this project.
-
-### 
