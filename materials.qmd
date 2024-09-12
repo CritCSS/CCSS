@@ -4,183 +4,147 @@ title: "Materials"
 
 ## Bulk download
 
-- As the goal is to compile a selection of materials into a course, the most convenient
-is to [bulk download](https://github.com/CritCSS/materials/) all the materials 
-from the repository and select the blocks from the folder. 
+-   As the goal is to compile a selection of materials into a course, the most convenient is to [bulk download](https://github.com/CritCSS/materials/) all the materials from the repository and select the blocks from the folder.
 
-- Alternatively, you can check the class notes directly, and download the materials of each block: 
+-   Alternatively, you can check the class notes directly, and download the materials of each block:
 
 ## Introduction (I)
 
-content: 
-- Introduction to Critical Quant
-- Introduction to R
+content: - Introduction to Critical Quant - Introduction to R
 
-- [Class notes](materials/1_intro_I/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/1_intro_I)
+-   [Class notes](materials/1_intro_I/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/1_intro_I)
 
 ## Introduction (II)
 
-content: 
-- Introduction to Critical Quant
-- Introduction to R
-- Version control and Documentation
-- This material mix the introduction I with the block 3 (version control), for a fast-paced course
+content: - Introduction to Critical Quant - Introduction to R - Version control and Documentation
 
-- [Class notes](materials/2_intro_II/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/2_intro_II)
+-   [Class notes](materials/2_intro_II/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/2_intro_II)
 
 ## Version Control
 
-content:
-- GIT
-- Rmarkdown
+content: - GIT - Rmarkdown
 
-- [Class notes](materials/3_version_control/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/3_version_control)
+-   [Class notes](materials/3_version_control/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/3_version_control)
 
 ## Descriptive Statistics
 
-content:
-- Probability and Statistics overview
-- Tests, correlations, confidence intervals and p-values
+content: - Probability and Statistics overview - Tests, correlations, confidence intervals and p-values
 
-- [Class notes](materials/4_descriptive_stats/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/4_descriptive_stats)
+-   [Class notes](materials/4_descriptive_stats/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/4_descriptive_stats)
 
 ## Linear Regression
 
-content:
-- Simple and multiple linear regression
-- Model assumptions and coefficient interpretation
+content: - Simple and multiple linear regression - Model assumptions and coefficient interpretation
 
-- [Class notes](materials/5_linear_regression/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/5_linear_regression)
+-   [Class notes](materials/5_linear_regression/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/5_linear_regression)
 
 ## Logistic Regression
 
-content:
-- logistic function
-- generalization: multinomial logistic regression
-- model assumptions
+content: - logistic function - generalization: multinomial logistic regression - model assumptions
 
-- [Class notes](materials/6_logistic_regression/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/6_logistic_regression)
+-   [Class notes](materials/6_logistic_regression/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/6_logistic_regression)
 
 ## Shiny Apps
 
-content:
-- server and UI
-- interactive visualizations with ggplotly
-- note: this should be tought after 8 (tidyverse) and 9 (data storytelling)
+content: - server and UI - interactive visualizations with ggplotly - note: this should be tought after 8 (tidyverse) and 9 (data storytelling)
 
-- [Class notes](materials/7_shiny_apps/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/7_shiny_apps)
+-   [Class notes](materials/7_shiny_apps/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/7_shiny_apps)
 
 ## Tidyverse
 
-content:
-- data wrangling
-- joins
-- Pivots
-- functions
+content: - data wrangling - joins - Pivots - functions
 
-- [Class notes](materials/8_tidyverse/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/8_tidyverse)
+-   [Class notes](materials/8_tidyverse/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/8_tidyverse)
 
 ## Data Storytelling
 
-content:
-- grammar of graphics
-- types of figures
-- multiple aesthetic attributes
+content: - grammar of graphics - types of figures - multiple aesthetic attributes
 
-- [Class notes](materials/9_data_storytelling/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/9_data_storytelling)
+-   [Class notes](materials/9_data_storytelling/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/9_data_storytelling)
 
 ## Tidy-dataviz
 
-content:
- - This material is a mix of 8 (tidyverse) and 9 (dataviz), for a fast-paced course
+content: - This material is a mix of 8 (tidyverse) and 9 (dataviz), for a fast-paced course
 
-- [Class notes](materials/10_tidy_dataviz/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/10_tidy_dataviz)
+-   [Class notes](materials/10_tidy_dataviz/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/10_tidy_dataviz)
 
 ## Web Scraping
 
-content: 
-- html
-- Extracting data
-- API
+content: - html - Extracting data - API
 
-- [Class notes](materials/11_web_scraping/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/11_web_scraping)
+-   [Class notes](materials/11_web_scraping/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/11_web_scraping)
 
 ## Preprocessing
-"normalization
-imputation. Categorical, continous"
 
-- [Class notes](materials/12_preprocessing/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/12_preprocessing)
+"normalization imputation. Categorical, continous"
+
+-   [Class notes](materials/12_preprocessing/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/12_preprocessing)
 
 ## Supervised Learning
- Non-parametric classification methods. KNN.  
- Parametric methods. Bayes theorem for classification
 
-- [Class notes](materials/13_supervised_learning/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/13_supervised_learning)
+Non-parametric classification methods. KNN.\
+Parametric methods. Bayes theorem for classification
+
+-   [Class notes](materials/13_supervised_learning/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/13_supervised_learning)
 
 ## Unsupervised Learning
 
 Clustering: K-means, hierarchical clustering
 
-- [Class notes](materials/14_unsupervised_learning/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/14_unsupervised_learning)
+-   [Class notes](materials/14_unsupervised_learning/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/14_unsupervised_learning)
 
 ## Evaluation
 
- Train test
-overfitting
-metrics: precision, recall, F1
+Train test overfitting metrics: precision, recall, F1
 
-
-- [Class notes](materials/15_evaluation/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/15_evaluation)
+-   [Class notes](materials/15_evaluation/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/15_evaluation)
 
 ## Text Mining
-"regex
-text processing
-Quantitative representation of text"
 
-- [Class notes](materials/16_text_mining/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/16_text_mining)
+"regex text processing Quantitative representation of text"
+
+-   [Class notes](materials/16_text_mining/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/16_text_mining)
 
 ## Topic Modeling
 
 Topic modeling, LDA, BERTOPIC
 
-- [Class notes](materials/17_topic_modeling/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/17_topic_modeling)
+-   [Class notes](materials/17_topic_modeling/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/17_topic_modeling)
 
 ## Embeddings
 
-Word Embeddings
-Pre-trained language models
-BERT
+Word Embeddings Pre-trained language models BERT
 
-- [Class notes](materials/18_embeddings/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/18_embeddings)
+-   [Class notes](materials/18_embeddings/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/18_embeddings)
 
 ## Deep Learning
 
 FCNN, Optimization, CNN
 
-- [Class notes](materials/19_deep_learning/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/19_deep_learning)
+-   [Class notes](materials/19_deep_learning/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/19_deep_learning)
 
 ## Social Network Analysis
 
 Elements of a network, types of networks, Networks representation an metrics, social networks
 
-- [Class notes](materials/20_SNA/1_class_notes.html)
-- [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/20_SNA)
+-   [Class notes](materials/20_SNA/1_class_notes.html)
+-   [Full Materials](https://github.com/CritCSS/materials/tree/main/materials/20_SNA)
