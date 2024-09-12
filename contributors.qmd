@@ -2,7 +2,7 @@
 title: "Contributors"
 ---
 
-### This project was ideated and founded by **Professor Thema Monroe-White**
+### This project was ideated and founded by Professor Thema Monroe-White
 
 -   Associate Professor of Artificial Intelligence and Innovation Policy in the Schar School of Policy and Government and Department of Computer Science (joint) at George Mason University
 
@@ -10,7 +10,7 @@ title: "Contributors"
 
 -   [Website](https://schar.gmu.edu/profiles/tmonroew)
 
-### The team that developed the materials for this website is composed of:
+### The team that designed and developed the materials for this website is composed of:
 
 -   **Diego Kozlowski**:
 
