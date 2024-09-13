@@ -20,6 +20,7 @@ title: "Contributors"
 
 -   **Laia Domenech Burin**:
 
+    -   Institut für Statistik - Ludwig-Maximilians Universität, München
     -   [ORCID](https://orcid.org/0000-0003-4576-3143)
 
 -   **Carolina Pradier**:
